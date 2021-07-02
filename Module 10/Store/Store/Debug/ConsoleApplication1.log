@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Store.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Store.cpp
+c:\users\renae\documents\class work\cs 161 intro to comp science\module 10\consoleapplication1\consoleapplication1\store.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\renae\documents\class work\cs 161 intro to comp science\module 10\consoleapplication1\consoleapplication1\store.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\renae\documents\class work\cs 161 intro to comp science\module 10\consoleapplication1\consoleapplication1\store.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\renae\documents\class work\cs 161 intro to comp science\module 10\consoleapplication1\consoleapplication1\store.cpp(104): warning C4018: '<': signed/unsigned mismatch
+c:\users\renae\documents\class work\cs 161 intro to comp science\module 10\consoleapplication1\consoleapplication1\store.cpp(181): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\renae\Documents\Class Work\CS 161 Intro to Comp Science\Module 10\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\renae\Documents\Class Work\CS 161 Intro to Comp Science\Module 10\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
